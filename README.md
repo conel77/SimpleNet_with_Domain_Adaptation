@@ -1,4 +1,4 @@
-# SimpleNet
+# SimpleNet with Domain Adaptation
 
 
 ![](imgs/cover.png)
@@ -11,9 +11,11 @@
 
 ##  Introduction
 
-This repo contains source code for **SimpleNet** implemented with pytorch.
+This repo contains source code for **SimpleNet & Domain Adaptation** implemented with pytorch.
 
 SimpleNet is a simple defect detection and localization network that built with a feature encoder, feature generator and defect discriminator. It is designed conceptionally simple without complex network deisng, training schemes or external data source.
+
+And I added **Domain Adaptation** at feature Adaptation Part, for more detailed feature adapt (because Imagenet feature and MvTec feature are not relative each other. So I want to minimize these features gap.)
 
 ## Get Started 
 
