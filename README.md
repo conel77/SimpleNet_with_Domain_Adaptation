@@ -17,6 +17,9 @@ SimpleNet is a simple defect detection and localization network that built with 
 
 And I added **Domain Adaptation** at feature Adaptation Part, for more detailed feature adapt (because Imagenet feature and MvTec feature are not relative each other. So I want to minimize these features gap.)
 
+![image](https://github.com/conel77/Anomaly-Detection/assets/81089768/9a572a66-0ceb-4ddb-bbd7-91932ae0c7e2)
+![image](https://github.com/conel77/Anomaly-Detection/assets/81089768/1e126974-22f5-4825-b12b-7342fc657a51)
+
 ## Get Started 
 
 ### Environment 
