@@ -34,6 +34,8 @@ SimpleNet is a simple defect detection and localization network that built with 
 
 (Above environment setups are not the minimum requiremetns, other versions might work too.)
 
+If you want to change backbone model (ViT) , please see this repository branch & **download MAE repository [here](https://github.com/facebookresearch/mae).**
+And then apply my repository!
 
 ### Data
 
